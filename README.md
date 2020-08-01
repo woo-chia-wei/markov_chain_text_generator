@@ -1,2 +1,2 @@
 # About
-Apply markov chain to generate random texts
+Apply Markov Chain to generate random texts
